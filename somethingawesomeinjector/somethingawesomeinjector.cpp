@@ -28,7 +28,7 @@ DWORD GetProcId(const char* procName) {
 
 int main()
 {
-    const char* dllPath = "C:\\Users\\spongyguy\\source\\repos\\somethingawesome\\Debug\\somethingawesome.dll";
+    const char* dllPath = "";
     const char* procName = "ac_client.exe";
     DWORD procId = 0;
 
